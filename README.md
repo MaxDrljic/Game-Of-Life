@@ -1,4 +1,4 @@
-This is the Game Of Life application made with React. It is a simple game where grid of cells is populated or unpopulated. Each cell interacts with other cells(neighbours) in various different directions. These are the rules:
+This is the Game Of Life application made with React. It is a simple game where grid of cells are populated or unpopulated. Each cell interacts with other cells(neighbours) in various different directions. These are the rules:
 
   1. Any live cell with fewer than two live neighbours dies, as if caused by underpopulation.
 
